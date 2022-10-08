@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/schemkes/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Schemkes GitHub stats](https://github-readme-stats.vercel.app/api?username=schemkes&show_icons=true&theme=radical)
