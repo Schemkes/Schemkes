@@ -1,2 +1,3 @@
 ![Schemkes GitHub stats](https://github-readme-stats.vercel.app/api?username=schemkes&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schemkes)](https://github.com/schemkes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schemkes&langs_count=8)](https://github.com/Schemkes/github-readme-stats)
